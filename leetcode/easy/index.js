@@ -1,3 +1,3 @@
-var module = require('./BinaryGap.js');
+var module = require('./BinaryNumberwithAlternatingBits.js');
 
 module.runTest();
