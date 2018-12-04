@@ -1,3 +1,3 @@
-var module = require('./BinaryTreePaths.js');
+var module = require('./BinaryTreeTilt.js');
 
 module.runTest();
