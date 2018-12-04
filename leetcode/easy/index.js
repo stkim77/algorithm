@@ -1,3 +1,3 @@
-var module = require('./BinaryNumberwithAlternatingBits.js');
+var module = require('./BinaryTreePaths.js');
 
 module.runTest();
