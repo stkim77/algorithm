@@ -1,3 +1,3 @@
-var module = require('./BinaryTreeTilt.js');
+var module = require('./AddToArrayFormOfInteger.js');
 
 module.runTest();
